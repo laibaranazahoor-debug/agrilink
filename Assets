@@ -1,0 +1,9 @@
+<!-- Example: logo at the top -->
+<img src="file:///storage/emulated/0/Download/StockCake-Farmer_at_sunset_1765691420.jpg" alt="AgriLink Logo" width="150">
+
+<!-- Example: section image -->
+<section id="features">
+    <h2>Key Features</h2>
+    <img " alt="Farm produce listing" style="max-width:100%;">
+    <p>Farmers can list crops with quantity, price, and location details.</p>
+</section>
